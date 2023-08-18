@@ -22,4 +22,8 @@ El objetivo fue realizar un bot basado en reglas utilizando las librerias sklear
 
 ## CLASE 5
 
+El objetivo fue utilizar Embeddings y LSTM para clasificar críticas de compradores de ropa utilizando un dataset de criticas de compradores de ropa.
+
 ## CLASE 6
+
+El objetivo fue utilizar redes LSTM encoder y decoder para construir un bot conversacional.
