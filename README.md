@@ -18,7 +18,11 @@ El objetivo fue realizar un bot basado en reglas utilizando las librerias sklear
 
 ## CLASE 3
 
+El objetivo fue utilizar documentos para crear vectores con Gensim de palabras, se tomo como base para generar los embeddings un texto de peter pan.
+
 ## CLASE 4
+
+El objetivo realizar una predicción de próxima palabra utilizando LSTM, se tomo como base para generar los embeddings un texto de peter pan.
 
 ## CLASE 5
 
